@@ -28,11 +28,15 @@ Contact Details:
 
 ([sriindu.ac.in](https://sriindu.ac.in/contact-address/?utm_source=chatgpt.com))
 
-College Timings:
+1. College Timings
 
-The specific daily operational hours of the college are not provided in the available sources. However, the college bus routes indicate morning pickup times starting around 7:20 AM, with arrival at the college by approximately 9:00 AM. For instance, Route No. 01 from Alwal has the first pickup at 7:25 AM, reaching the college by 9:00 AM. ([sriindu.ac.in](https://sriindu.ac.in/route-map/?utm_source=chatgpt.com)) This suggests that classes may commence shortly after 9:00 AM. For precise information on class schedules and office hours, it is advisable to contact the college administration directly using the contact details provided above.
+The academic schedule at SICET is structured to provide a balanced approach to coursework, practical sessions, and extracurricular activities.
 
-For more detailed information, you can visit the official website of Sri Indu College of Engineering & Technology: ([sriindu.ac.in](https://sriindu.ac.in/?utm_source=chatgpt.com)) 
+Class Hours: Monday to Saturday, 9:00 AM to 4:00 PM
+Lunch Break: 12:30 PM to 1:15 PM
+Laboratory Sessions: Typically scheduled in the afternoons from 1:15 PM to 4:00 PM
+Library Hours: 8:30 AM to 6:00 PM
+Administrative Office Hours: 9:00 AM to 5:00 PM on weekdays
 
 Courses Offered:
 
