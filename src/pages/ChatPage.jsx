@@ -9,7 +9,8 @@ const ChatPage = () => {
   const [history, setHistory] = useState([]);
   const [loading, setLoading] = useState(false);
 
-  const API_KEY = 'AIzaSyBVH8rqVm4UhrrjPgHTXDaQoKEEtdYmNgY';
+  const API_KEY = import.meta.env.VITE_API_KEY;
+
   const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${API_KEY}`;
   const [status, setStatus] = useState(true);
   const inputRef = useRef(null);
