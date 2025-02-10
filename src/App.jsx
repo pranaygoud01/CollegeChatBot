@@ -6,7 +6,7 @@ import Box from "./components/Box";
 
 const App = () => {
   return (
-    <div className='bg-gray-50 h-[100vh] max-lg:h-[93vh] w-full flex justify-center items-center'>
+    <div className='bg-gray-50 max-lg:bg-white h-[100vh] max-lg:h-[93vh] w-full flex justify-center items-center'>
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<Box />} />

@@ -86,9 +86,9 @@ const ChatPage = () => {
     <motion.div
       animate={{ scale: [0.6, 1] }}
       transition={{ duration: 0.2, ease: easeOut }}
-      className="flex flex-col shadow-xl rounded-[35px] bg-white p-8 max-lg:max-h-full h-[90vh] w-[400px] max-lg:w-full max-lg:h-full max-lg:rounded-none relative"
+      className="flex flex-col shadow-xl rounded-[35px] bg-white p-8 max-lg:max-h-screen  max-lg:shadow-none h-[90vh] w-[400px] max-lg:w-full max-lg:h-screen max-lg:rounded-none relative"
     >
-      <h1 className="font-bold text-[#272727] text-2xl">New Chat</h1>
+      <h1 className="font-bold text-[#272727] text-2xl max-lg:pt-10">New Chat</h1>
 
       {status ? (
         <div className="flex-1 text-[#696969f5] gap-4 font-semibold text-xl max-lg:text-[18px] flex justify-center flex-col items-center overflow-y-auto mt-4">
